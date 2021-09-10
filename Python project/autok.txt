@@ -1,0 +1,2 @@
+marka,tipus,evjarat,loero,tomeg,vegsebesseg
+Audi,Cameron,2001,189,2343,312
