@@ -1,26 +1,3 @@
-/* let count = 0;
-while (count < 10) {
-    count++;
-    console.log(count);
-} */
-
-/* const secret = "BabyHippo";
-
-let guess = prompt("Enter a secret code");
-while (guess !== secret) {
-    guess = prompt("Enter a secret code");
-}
-console.log("Congrats, you ot it"); */
-/* let input = prompt("Heey, say something")
-while (true) {
-    input = prompt(input);
-    if (input.toLowerCase() === "stop copying me") {
-        break;
-    };
-};
-
-console.log("Okay you win") */
-
 // GUESSING GAME
 
 
