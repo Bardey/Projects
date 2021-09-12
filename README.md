@@ -8,3 +8,8 @@ Data Science project:
 Python project:
 
   This is a hungarian car recommending programme. It recommends cars by certain parameters given by the user and works from a user edited csv database. 
+
+Bootstrap project:
+
+  A simple Website made by using Bootstrap.
+  
