@@ -13,3 +13,7 @@ Bootstrap project:
 
   A simple Website made by using Bootstrap.
   
+Guessing game:
+
+  A simple number guessing game made with JS.
+  
