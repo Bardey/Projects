@@ -15,5 +15,5 @@ Bootstrap project:
   
 Guessing game:
 
-  A simple number guessing game made with JS.
+  A simple number guessing game made by using JS.
   
