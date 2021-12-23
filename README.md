@@ -12,6 +12,7 @@ Python projects:
   3. Snake Game: The classic Snake game made by using python's Turtle package. Score keeping is implemented. 
   4. Crossing game: In this game you have to cross a random traffic road. The game is getting harder at level ups. 
   5. Color art: Generating a random artwork using a real art's colors and python's Turtle package. 
+  6. Worker Database: A simple GUI program creating worker objects, displaying and storing them in a txt file. The program handles exceptions, comtains regular expressions and so on. The user can add, edit and delete objects. The GUI package is PyQt5.
 
 Bootstrap project:
 
