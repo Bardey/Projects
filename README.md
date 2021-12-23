@@ -1,9 +1,9 @@
 # Projects
 These are projects that I've made in the past.
 
-Data Science project:
+PSQL - Data Science project:
   
-  Here I analysed data containing a plenty of thousands of lines of a fictional enterprise. I separated the different type of logs, then analysed the data. I've       made a Funnel analysis, and two other reports with PSQL.
+  1. Here I analysed data containing a plenty of thousands of lines of a fictional enterprise. I separated the different type of logs, then analysed the data. I've       made a Funnel analysis, and two other reports with PSQL.
   
 Python projects:
 
@@ -17,7 +17,7 @@ Bootstrap project:
 
   A simple Website made by using Bootstrap.
   
-Guessing game:
+Javasript Project:
 
-  A simple number guessing game made by using JS.
+  1. Guessing game: A simple number guessing game made by using JS.
   
